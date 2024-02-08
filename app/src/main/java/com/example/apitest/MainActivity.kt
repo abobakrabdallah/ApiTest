@@ -54,6 +54,11 @@ class MainActivity : AppCompatActivity() {
             binding.pb1.isVisible = false
         }
 
+
+
+
+
+
     }
 
     private fun setUpRecyclerView() = binding.rvItems.apply {
